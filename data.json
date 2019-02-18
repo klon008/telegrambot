@@ -1,0 +1,24 @@
+{
+  "commands": {
+    "start": {
+      "key": "Function",
+      "value": "startmenu"
+    },
+    "help" : {
+      "key": "String",
+      "value": "Это хелп"
+      },
+    "Привет": {
+      "key": "String",
+      "value": "Ну здарова!"
+    },
+    "sendmemarkdown":{
+      "key": "Markdown",
+      "value" : "*Заголовок первого уровня*\r\n_local_"
+    },
+    "sendcatmeowaudio":{
+      "key": "Function",
+      "value" : "sendcatmeowaudio"
+    }
+  }
+}
